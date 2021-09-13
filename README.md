@@ -1,6 +1,6 @@
 Kirish qismlari !
-![introduction](https://user-images.githubusercontent.com/86619302/133076224-9e2ce278-1a83-4af9-b6fa-c5702a04d77d.png)
-![photo_2021-09-13_16-27-38](https://user-images.githubusercontent.com/86619302/133076862-eb4a07f6-da03-4f78-847c-bc3f12d43d28.jpg)
+<h1>![introduction](https://user-images.githubusercontent.com/86619302/133076224-9e2ce278-1a83-4af9-b6fa-c5702a04d77d.png)
+![photo_2021-09-13_16-27-38](https://user-images.githubusercontent.com/86619302/133076862-eb4a07f6-da03-4f78-847c-bc3f12d43d28.jpg)<h1>
 ![photo_2021-09-13_16-27-42](https://user-images.githubusercontent.com/86619302/133076869-f719bead-0ef5-48f5-9038-538dfd753596.jpg)
 
 Home Pages
