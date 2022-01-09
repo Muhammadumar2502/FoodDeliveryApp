@@ -32,10 +32,7 @@
 <a href="https://ibb.co/vv5JcX5"><img src="https://i.ibb.co/JFLzc3L/Screenshot-1631500038.png" alt="Screenshot-1631500038" border="0" width=100></a>
 ## Zoom Page
 
-[<img src="https://i.ibb.co/TRK6C0b/Screenshot-1631499891.png" alt="1111" border="0" width=100></a>](https://youtu.be/sIju9EPti_0E)
-# Flutter App Youtube video 
-
-## Get Started
+## Packages
 <br>
 --> cupertino_icons: ^1.0.3
 <br>
